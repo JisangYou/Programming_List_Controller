@@ -8,15 +8,15 @@
 
 ## ADS_Programs
 
-> __학원에서 학습한 것__ 
+> __학습목록 In Academy__ 
 
 [ADS_Programs](https://github.com/youjisang/ADS_Programs.git)
 
 ## Node_Programs
 
-> 예정....
+> __학습목록 In Academy__
 
-[Node]()
+[Node_Programs](https://github.com/youjisang/Node_Programs.git)
 
 ## Android_Studying
 
@@ -36,4 +36,7 @@
 
 [Kotlin](https://github.com/youjisang/Kotlin_Studying.git)
 
+## 자료구조 및 알고리즘
+
+> __Not yet__
 

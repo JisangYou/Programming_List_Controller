@@ -38,5 +38,6 @@
 
 ## 자료구조 및 알고리즘
 
-> __Not yet__
+> __학습 목록__
+[Data structure and Algorithm](https://github.com/youjisang/DataStructure_Algorithm.git)
 

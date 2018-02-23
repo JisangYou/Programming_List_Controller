@@ -18,6 +18,16 @@
 
 [Node_Programs](https://github.com/youjisang/Node_Programs.git)
 
+## 자료구조 및 알고리즘
+
+> __학습목록__
+
+[Data structure and Algorithm](https://github.com/youjisang/DataStructure_Algorithm.git)
+
+
+-----------------------------------------------------------------------------------
+## 개인 학습 공간입니다.
+
 ## Android_Studying
 
 > __학습목록(+library)__
@@ -35,11 +45,4 @@
 > __update준비중__
 
 [JS,Node](https://github.com/youjisang/JsAndNode_Practice.git)
-
-
-## 자료구조 및 알고리즘
-
-> __학습목록__
-
-[Data structure and Algorithm](https://github.com/youjisang/DataStructure_Algorithm.git)
 

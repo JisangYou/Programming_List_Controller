@@ -8,24 +8,27 @@
 
 - ing...
 
-----------------------------------------------------------------------------------
 
-### Basic study
+### Basic
 
 - [Computer Architecture]()
+
 - [Operating System]()
+
 - [Networking]()
+
 - [Data structure]()
+
 - [Algorithm]()
+
 - [DataBase]()
 
-----------------------------------------------------------------------------------
 
 ### personal study
 
 - thinking...
 
-
+----------------------------------------------------------------------------------
 
 
 ## 2017/09/01~ 2019/02/18 (0 ~ 1 year history)
@@ -34,7 +37,6 @@
 
 - [myProjects](https://github.com/youjisang/MyProjects.git)
 
-----------------------------------------------------------------------------------
 
 ### Academy Programs
 
@@ -42,7 +44,6 @@
 
 - [Node_Programs](https://github.com/youjisang/Node_Programs.git)
 
-----------------------------------------------------------------------------------
 
 ### personal study
 

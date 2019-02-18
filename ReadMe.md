@@ -1,12 +1,12 @@
-# MainList
+# My List
 
->> hisory
+>> My Coding history :) 
 
-## 2019/02/19 (~ing)
+## 2019-02-19 (1 ~ ing)
 
 ### Portfolio
 
-- ing...
+- Loading...
 
 
 ### Basic
@@ -26,12 +26,12 @@
 
 ### personal study
 
-- thinking...
+- Loading...
 
 ----------------------------------------------------------------------------------
 
 
-## 2017/09/01~ 2019/02/18 (0 ~ 1 year history)
+## 2017-09-01 ~ 2019-02-18 (0 ~ 1 year)
 
 ### Portfolio
 
